@@ -1,6 +1,6 @@
 # Crypto Monitor
 
-This is a react project that monitors the real time prices of crypto currencies using the [Coin Gecko API](https://www.coingecko.com/en/api).
+This is a react project that monitors real time prices of crypto currencies using the [Coin Gecko API](https://www.coingecko.com/en/api).
 Feel free to go to the [website](https://dazzling-neumann-fcf711.netlify.app/crypto) and try it out! 
 
 # Screenshots
