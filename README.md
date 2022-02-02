@@ -5,7 +5,7 @@ Feel free to go to the [website](https://dazzling-neumann-fcf711.netlify.app/cry
 
 # Screenshots
 **Dashboard**
-![Login page](https://i.ibb.co/02WrCBM/Screen-Shot-2022-02-02-at-2-55-40-PM.png)
+![Dashboard](https://i.ibb.co/02WrCBM/Screen-Shot-2022-02-02-at-2-55-40-PM.png)
 
 **Filter by name**
 ![enter image description here](https://i.ibb.co/P14YqmR/Screen-Shot-2022-02-02-at-3-03-17-PM.png)
